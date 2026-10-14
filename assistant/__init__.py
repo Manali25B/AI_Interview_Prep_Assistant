@@ -1,0 +1,1 @@
+"""Interview preparation assistant application modules."""
